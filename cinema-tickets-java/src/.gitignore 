@@ -1,3 +1,6 @@
-# Ignore IntelliJ project files
+# Maven
+target/
+
+# IntelliJ
 .idea/
 *.iml
